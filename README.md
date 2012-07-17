@@ -24,4 +24,4 @@ Just say cu and time in natural language. For example:
 
 * `sudo ./cu "tomorrow 9am"`
 * `sudo ./cu "next monday 3pm"`
-* `sudo ./cu "1 hour ago"` rtcwake: time doesn't go backwardrtcwake: time doesn't go backward`
+* `sudo ./cu "1 hour ago"` rtcwake: time doesn't go backward
