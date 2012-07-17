@@ -1,7 +1,7 @@
 cu
 ==
 
-Unix script to automatically sleep and wake-up the system at specific times using natural language
+Bash script to automatically sleep and wake-up the system at specific times using natural language
 
 Installation
 ------------
